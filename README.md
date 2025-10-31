@@ -1,17 +1,3 @@
-<pre>
-
-  ───────────────▄▄───▐█
-  ───▄▄▄───▄██▄──█▀───█─▄
-  ─▄██▀█▌─██▄▄──▐█▀▄─▐█▀
-  ▐█▀▀▌───▄▀▌─▌─█─▌──▌─▌
-  ▌▀▄─▐──▀▄─▐▄─▐▄▐▄─▐▄─▐▄
-                             Booting … 
-</pre>
-
-
-
-
-
 <p align="left">
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
