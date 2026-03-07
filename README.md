@@ -1,4 +1,4 @@
-<h2>Hi, I'm Prem 👋</h2>
+<h3>Hi, I'm Prem </h3>
 
 Currently building SaaS platforms and MERN stack applications
 
