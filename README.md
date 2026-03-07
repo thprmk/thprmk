@@ -1,6 +1,6 @@
 <h1>Hi, I'm Prem 👋</h1>
 
-<p align="left" style="color:#6b7280; font-size:16px; max-width:600px;">Currently building SaaS platforms and MERN stack applications</p>
+<i>Currently building SaaS platforms and MERN stack applications</i>
 
 <p align="left">
   <!-- Languages -->
