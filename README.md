@@ -1,6 +1,6 @@
 <h2>Hi, I'm Prem 👋</h2>
 
-<h4>Currently building SaaS platforms and MERN stack applications</h4>
+Currently building SaaS platforms and MERN stack applications
 
 <p align="left">
   <!-- Languages -->
