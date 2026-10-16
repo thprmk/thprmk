@@ -1,5 +1,5 @@
 
-<h3 align="center">Tech Stack</h3>
+<!-- <h3 align="center">Tech Stack</h3> -->
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite,nodejs,express,mongodb,firebase,java,spring,hibernate,maven,mysql,postgres,dart,flutter,git,github,npm,postman,jest,vitest,docker,linux,aws,vercel" />
@@ -7,7 +7,7 @@
 
 
 
-<h3 align="center">LLMs • Agents</h3>
+<h3 align="center">LLMs & Agents</h3>
 
 <p align="center">
   <a href="https://n8n.io/">
